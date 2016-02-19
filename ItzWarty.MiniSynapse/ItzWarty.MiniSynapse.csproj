@@ -38,18 +38,18 @@
     <Reference Include="RzCommon">
       <HintPath>.\RzCommon.dll</HintPath>
     </Reference>
-    <Reference Include="RzStorage, Version=2.1.0.24933, Culture=neutral, processorArchitecture=x86">
+    <Reference Include="RzStorage, Version=2.1.0.28020, Culture=neutral, processorArchitecture=x86">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>.\RzStorage.dll</HintPath>
     </Reference>
     <Reference Include="RzStorageIO">
       <HintPath>.\RzStorageIO.dll</HintPath>
     </Reference>
-    <Reference Include="RzSynapse, Version=1.18.19.25502, Culture=neutral, processorArchitecture=x86">
+    <Reference Include="RzSynapse, Version=1.18.19.28549, Culture=neutral, processorArchitecture=x86">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>.\RzSynapse.exe</HintPath>
     </Reference>
-    <Reference Include="RzUISdk, Version=1.18.19.25502, Culture=neutral, processorArchitecture=x86">
+    <Reference Include="RzUISdk, Version=1.18.19.28549, Culture=neutral, processorArchitecture=x86">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>.\RzUISdk.dll</HintPath>
     </Reference>
